@@ -2,3 +2,52 @@
 Created by: A.woroniuk
 */
 
+body {
+	background: #ffffff;
+	font-family:arial,sans-serif;
+	font-size:90%;
+	text-align: center;
+}
+
+/*
+.searchbuttons {
+	
+	
+}
+*/
+
+button {
+	border: 0;
+	padding: 10px 20px;
+	font-size:90%;
+	font-weight:bold;
+}
+
+#topnav {
+	text-align:right;
+}
+
+
+#topnav button {
+	color:#ffffff;
+	font-col:4285F4;
+
+}
+
+#logo {
+	width: 50%;
+	height:auto;
+}
+
+form {
+	
+
+}
+
+.search {
+	border:0px solid #dbdbdb;
+}
+
+#bottomnav {
+
+}
