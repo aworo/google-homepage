@@ -9,34 +9,57 @@ body {
 	text-align: center;
 }
 
-/*
+div {
+	margin:20px auto;
+
+}
+
 .searchbuttons {
-	
+	margin: 20px 0px 20px 0;	
 	
 }
-*/
+
 
 button {
 	border: 0;
 	padding: 10px 20px;
 	font-size:90%;
 	font-weight:bold;
+	
+
 }
 
 #topnav {
+	padding: 10px;
 	text-align:right;
+
 }
 
+input {
+	margin: 0 0;
+}
+
+span {
+	padding: 0px 10px;
+}
+
+img {
+	vertical-align: middle;
+}
 
 #topnav button {
 	color:#ffffff;
-	font-color:4285F4;
-
+	background-color:#4285F4;
+	padding: 5px 10px;
 }
 
 #logo {
 	width: 50%;
 	height:auto;
+}
+
+#imglogo {
+
 }
 
 form {
